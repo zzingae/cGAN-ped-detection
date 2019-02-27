@@ -1,5 +1,6 @@
 # cGAN-ped-detection
 by Jonghyun Kim
+
 pedestrian detection using visible image and generated thermal image from cGAN
 
 ### Introduction
