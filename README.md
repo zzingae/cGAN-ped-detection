@@ -1,9 +1,9 @@
 # cGAN-ped-detection
 by Jonghyun Kim
 
+### Introduction
 pedestrian detection using visible image and generated thermal image from cGAN
 
-### Introduction
 modified version of [pix2pix](https://github.com/affinelayer/pix2pix-tensorflow) for pedestrian detection
 
 <div align="left">
