@@ -2,9 +2,9 @@
 by Jonghyun Kim
 
 ### Introduction
-pedestrian detection using visible image and generated thermal image from [cGAN](https://arxiv.org/abs/1611.07004)
+pedestrian detection using visible image and generated thermal image from [cGAN](https://arxiv.org/abs/1611.07004).
 
-modified version of [pix2pix](https://github.com/affinelayer/pix2pix-tensorflow) for pedestrian detection
+modified version of [pix2pix](https://github.com/affinelayer/pix2pix-tensorflow) for pedestrian detection.
 
 <div align="left">
     <img src="/image.jpg" width="500px"</img> 
